@@ -1,0 +1,2219 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <worksheet>
+	<title>Math 253 Summer 2026 Online Schedule</title>
+	<introduction>
+		<p>Use this schedule/checklist to make sure that you have completed all of the
+	graded components of the course.</p>
+	</introduction>  
+<page>
+<table>
+    <title>Math 253 Calculus III Summer Checklist (weeks 1-2)</title>
+	<tabular halign="center" left="medium" top="medium">
+		<row bottom="medium">
+			<cell colspan="2" right="medium">
+				 Date
+			</cell>
+			<cell right="medium">
+				<p>Lessons</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>WP</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>LO</p><p>Quiz Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Revisions and</p><p>Retakes Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				Assessments
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Tutoring and</p><p>Reflections</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell colspan="2" right="medium">
+				Week 0 Preliminary Information
+			</cell>
+			<cell colspan="12" right="medium">
+				<p>W May 13 -U May 17 - Canvas course is open for preview. 
+                Log in to Canvas and start working through the course
+                introduction module. Some of the assignments in this module 
+                are part of your Engagement grade and will help you navigate
+                this course. In this module, you will also learn more about the 
+                course setup and expectations. In addition, if you have not
+                had math in a while or struggle with Algebraic, Precalculus concepts, I 
+                would recommend reviewing the items in the Review Module.
+                You should have a good understanding of the concepts in this 
+                module before starting this course.</p>
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+				Week 1
+			</cell>
+			<cell right="medium" bottom="medium">
+				M May 18
+			</cell>
+			<cell right="medium" bottom="medium">
+				Course Introduction
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				T May 19
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				W May 20
+			</cell>
+			<cell right="medium" bottom="medium">
+				Introduction to Vector Applications
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Sample Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Reflection 1
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				R May 21
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				F May 22
+			</cell>
+			<cell right="medium">
+				L1
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Schedule Instructor Appointment</p>
+				<p>Reflection 2</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+				Week 2
+			</cell>
+			<cell right="medium" bottom="medium">
+				M May 25
+			</cell>
+			<cell colspan="12" right="medium" bottom="medium">
+				No Class -- Memorial Day
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				T May 26
+			</cell>
+			<cell right="medium" bottom="medium">
+				Introduction to Lines, Planes, and Surfaces
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP1 + Video
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				W May 27
+			</cell>
+			<cell right="medium" bottom="medium">
+				L2
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				FUN-1 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Set up Proctor
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				R May 28
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP2 + Exploration
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Instructor Appt Due
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				F May 29
+			</cell>
+			<cell right="medium">
+				Information on Vector Valued Functions
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				FUN-2 Quiz
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+		</row>
+	</tabular>
+</table>
+</page>
+<page>
+<table>
+	<title>Math 253 Calculus III Summer Checklist (weeks 3-4)</title>
+		<tabular halign="center" left="medium" top="medium">
+		<row bottom="medium">
+			<cell colspan="2" right="medium">
+				 Date
+			</cell>
+			<cell right="medium">
+				<p>Lessons</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>WP</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>LO</p><p>Quiz Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Revisions and</p><p>Retakes Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				Assessments
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Tutoring and</p><p>Reflections</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+		</row>
+		<row>
+			<cell  right="medium">
+				Week 3
+			</cell>
+			<cell right="medium" bottom="medium">
+				M Jun 1
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Tutoring Appt 1 Due
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				T Jun 2
+			</cell>
+			<cell right="medium" bottom="medium">
+				L3
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				W Jun 3
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP3+ Exploration
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				FUN-1 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			Instructor Appointment Due
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				R Jun 4
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Functions of Several Variables
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				FUN-3 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Reflection 3
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				F Jun 5
+			</cell>
+			<cell right="medium">
+				L4
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				FUN-2 Revision and Retake
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				Schedule Assessment 1
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+				Week 4
+			</cell>
+			<cell right="medium" bottom="medium">
+				M Jun 8
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Partial Derivatives
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP4 + Exploration
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				T Jun 9
+			</cell>
+			<cell right="medium" bottom="medium">
+				L5
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				FUN-4 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				W Jun 10
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP5
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				R Jun 11
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				FUN-3 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium">
+				Assessment 1
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				F Jun 12
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+			</cell>
+		</row>
+	</tabular>
+</table>
+</page>
+<page>
+<table>
+    <title>Math 156 Linear Algebra Summer Checklist (weeks 5-6)</title>
+	<tabular halign="center" left="medium" top="medium">
+		<row bottom="medium">
+			<cell colspan="2" right="medium">
+				 Date
+			</cell>
+			<cell right="medium">
+				<p>Lessons</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>WP</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>LO</p><p>Quiz Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Revisions and</p><p>Retakes Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				Assessments
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Tutoring and</p><p>Reflections</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+				Week 5
+			</cell>
+			<cell right="medium" bottom="medium">
+				M Jun 15
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for the Chain Rule
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Tutoring Appt 2 Due
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				T Jun 16
+			</cell>
+			<cell right="medium" bottom="medium">
+				L6
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				DC-1 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				FUN-4 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				RSI Student Survey Due
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				W Jun 17
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Gradient, Tangent Planes, and Linear Approximation
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP6
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Reflection 4
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				R Jun 18
+			</cell>
+			<cell right="medium" bottom="medium">
+				L7
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				DC-2 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				F Jun 19
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP7
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Schedule Assessment 2
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+				Week 6
+			</cell>
+			<cell right="medium" bottom="medium">
+     		 M Jun 22
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Maximum and Minimum
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+        	T Jun 23
+			</cell>
+			<cell right="medium" bottom="medium">
+				L8
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				DC-3 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				DC-1 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+        W Jun 24
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Lagrange Multipliers
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP8
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+        R Jun 25
+			</cell>
+			<cell right="medium" bottom="medium">
+				L9
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				DC-4 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				DC-2 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+        F Jun 26
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Double Integrals
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP9 + Exploration
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Tutoring Appt 3 Due
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+	</tabular>
+</table>
+</page>
+<page>
+<table>
+    <title>Math 253 Calculus III Summer Checklist (weeks 7-8)</title>
+	<tabular halign="center" left="medium" top="medium">
+		<row bottom="medium">
+			<cell colspan="2" right="medium">
+				 Date
+			</cell>
+			<cell right="medium">
+				<p>Lessons</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>WP</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>LO</p><p>Quiz Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Revisions and</p><p>Retakes Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				Assessments
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Tutoring and</p><p>Reflections</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+				Week 7
+			</cell>
+			<cell right="medium" bottom="medium">
+				M Jun 29
+			</cell>
+			<cell right="medium" bottom="medium">
+				L10
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				T Jun 30
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Triple Integrals
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP10
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				DC-5 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				DC-3 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				W Jul 1
+			</cell>
+			<cell right="medium" bottom="medium">
+				L11
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				R Jul 2
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				DC-4 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium">
+				Assessment 2
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row  bottom="medium">
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				F Jul 3
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+				Week 8
+			</cell>
+			<cell right="medium" bottom="medium">
+				M Jul 6
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Integrals of Mass
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				IC-1 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Reflection 5
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				T Jul 7
+			</cell>
+			<cell right="medium" bottom="medium">
+				L12
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP11
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				DC-5 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				W Jul 8
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				IC-2 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				R Jul 9
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Change of Variables
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP12
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row  bottom="medium">
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				F Jul 10
+			</cell>
+			<cell right="medium" bottom="medium">
+				L13
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				IC-3 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Schedule Assessment 3
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Tutoring Appt 4 Due
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+</tabular>
+</table>
+</page>
+<page>
+<table>
+    <title>Math 253 Calculus III Summer Checklist (weeks 9-10)</title>
+	<tabular halign="center" left="medium" top="medium">
+		<row bottom="medium">
+			<cell colspan="2" right="medium">
+				 Date
+			</cell>
+			<cell right="medium">
+				<p>Lessons</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>WP</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>LO</p><p>Quiz Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Revisions and</p><p>Retakes Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				Assessments
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Tutoring and</p><p>Reflections</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+				Week 9
+			</cell>
+			<cell right="medium" bottom="medium">
+				M Jul 13
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP13 + Video
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				IC-1 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				T Jul 14
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Line Integrals and Vector Fields
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				IC-4 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				W Jul 15
+			</cell>
+			<cell right="medium" bottom="medium">
+				L14
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				IC-2 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				R Jul 16
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium">
+				Assessment 3
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Reflection 6
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				F Jul 17
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				IC-3 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+				Week 10
+			</cell>
+			<cell right="medium" bottom="medium">
+				M Jul 20
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Green's Theorem
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP14
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				T Jul 21
+			</cell>
+			<cell right="medium" bottom="medium">
+				L15
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				APP-1 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				IC-4 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				W Jul 22
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP15 + Video
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				R Jul 23
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Surface Integrals
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				APP-2 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				F Jul 24
+			</cell>
+			<cell right="medium" bottom="medium">
+				L16
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Schedule Assessment 4
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Tutoring Appt 5 Due
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+</tabular>
+</table>
+</page>
+<page>
+<table>
+    <title>Math 253 Calculus III Summer Checklist (weeks 11-12)</title>
+	<tabular halign="center" left="medium" top="medium">
+		<row bottom="medium">
+			<cell colspan="2" right="medium">
+				 Date
+			</cell>
+			<cell right="medium">
+				<p>Lessons</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>WP</p><p>Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>LO</p><p>Quiz Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Revisions and</p><p>Retakes Due</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				Assessments
+			</cell>
+			<cell right="medium">
+			</cell>
+			<cell right="medium">
+				<p>Tutoring and</p><p>Reflections</p>
+			</cell>
+			<cell right="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+				Week 11
+			</cell>
+			<cell right="medium" bottom="medium">
+				M Jul 27
+			</cell>
+			<cell right="medium" bottom="medium">
+				Information for Stokes' and the Divergence Theorems
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP16 + Exploration
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				T Jul 28
+			</cell>
+			<cell right="medium" bottom="medium">
+				L17
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				APP-3 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				APP-1 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				W Jul 29
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				WP17
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				R Jul 30
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				APP-4 Quiz
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				APP-2 Revision and Retake
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				Schedule Final Assessment
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				F Jul 31
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium">
+				Assessment 4
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+				Week 12
+			</cell>
+			<cell right="medium" bottom="medium">
+				M Aug 3
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				T Aug 4
+			</cell>
+			<cell colspan="12" right="medium" bottom="medium">
+				<p>This is the last day to submit any WP assignments, Video Lessons, 
+					Reflections, APP revisions or retakes and Tutoring Appointment 6.</p>
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				W Aug 5
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				R Aug 6
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium">
+				Final Assessment
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+		<row>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+				F Aug 7
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+			<cell right="medium" bottom="medium">
+			</cell>
+		</row>
+	</tabular>
+</table>
+</page>
+</worksheet>

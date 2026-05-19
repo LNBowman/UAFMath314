@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This is the main course file for ... . It is used to generate all the public facing course materials so those can be hosted online.  -->
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- Include common macros etc: -->
+  <xi:include href="./docinfo.ptx" />
+  <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
+  <book>
+    <title>Linear Algebra</title>
+
+    <subtitle>UAF MATH 314</subtitle>
+
+    <!-- Optional: include frontmatter with author info and date -->
+    <xi:include href="./frontmatter.ptx" />
+
+    <chapter xml:id="course-documents">
+      <title>Course Documents</title>
+
+      <!-- Course syllabus -->
+      <xi:include href="./course-documents/syllabus.ptx" />
+      <xi:include href="./course-documents/components.ptx" />
+      <xi:include href="./course-documents/rubrics.ptx" />
+      <xi:include href="./course-documents/policies.ptx" />
+      <xi:include href="./course-documents/support.ptx" />
+      <xi:include href="./course-documents/schedule.ptx" />
+    </chapter>
+      <!-- Other documents could go here, like a schedule, project description, etc. -->
+    <chapter xml:id="linear-systems-applications-and-independence">
+      <title>Linear Systems, Applications, and Independence</title>
+        <introduction><p>In this unit we will explore linear systems, their applications, 
+          and the concept of vector independence.</p>
+        <p>There are four learning outcomes for this unit:</p>
+        <ul>
+          <li><p>Systems of Linear Equations</p></li>
+          <li><p>Linear Independence</p></li>
+          <li><p>Transformations of Linear Systems</p></li>
+          <li><p>Applications of Linear Systems</p></li>
+        </ul>
+        </introduction>
+        <xi:include href="./lsai-outcomes/lsai1-materials.ptx" />
+    </chapter>
+
+    <!-- Include additional chapters for other categories -->
+
+    </book>
+  </pretext>

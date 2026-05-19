@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="lsai1-materials" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Linear Systems</title>
+    <p> There will be some reading, videos, graded practice, and sample problems attached.</p>
+        <!-- <xi:include href="./app-1/app1-reading.ptx" />
+        <xi:include href="./app-1/app1-vid.ptx" />
+        <xi:include href="./app-1/app1-wp.ptx" />
+        <xi:include href="./app-1/app1-sample.ptx" /> -->
+</section>

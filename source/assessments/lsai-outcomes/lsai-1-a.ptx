@@ -1,0 +1,16 @@
+<worksheet >
+    <title>LSAI-1 Linear Systems</title>
+  <introduction>
+    <p>To earn an M on this outcome, </p>
+  </introduction>  
+  <page>
+    <exercise workspace="1.5in">
+        <introduction><p></p></introduction>
+      <task><statement><p></p></statement></task>
+      <task><statement><p></p></statement></task>
+    </exercise>
+    <exercise workspace="1.5in">
+      <statement><p></p></statement>
+    </exercise>
+  </page>
+</worksheet>

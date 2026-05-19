@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Course Information</title>
+  <!-- Include chapters -->
+  <paragraphs>
+    <title>Math 314 Linear Algebra Summer 2026 Course Syllabus</title>
+      <p>This is a 3-credit asynchronous course. This means that this course 
+        is offered through Canvas and there are no set meeting times. For 
+        this course, you will be asked to work through the material by watching 
+        videos, practicing problems, and completing quizzes and assessments. 
+        While this is a self-paced course, there are due dates and completion 
+        deadlines that need to be met.</p>
+      <p>In this course, I will use a standards-based assessment format 
+        instead of the traditional percentage-based system you've seen before. 
+        This style of assessment will give you a clearer picture of the 
+        expectations in our course, how well you have mastered the course material, 
+        and how you can improve your understanding (and your grade!). Throughout 
+        the course, you will be given opportunities to further develop your skills, 
+        assess these skills, and relearn material to improve your understanding.  
+        We will have weekly quizzes, weekly activities, and an assessment about 
+        every two weeks. Every problem that you see on a quiz or assessment will be 
+        mapped to one of the course standards. In addition to these assignments, you 
+        will also be asked to complete reflective assignments and course surveys.</p>
+      <p>The key ideas of mastery-based learning are:
+        <ul>
+          <li>You will either receive credit or need to reassess; There are no 0 grades unless you do not try;</li>
+          <li>You will be given many opportunities to improve your understanding and your score;</li>
+          <li>Non-mastery items are based on completion;</li>
+          <li>Once you have attained a minimum grade you can only improve.</li>
+        </ul></p>
+  </paragraphs>
+    <paragraphs>
+      <title>Instructor and Section Information</title>
+      <p>Instructor: Dr. Latrice Bowman</p><p>Office: Chapman 301B</p>
+      <p>email: <url href="mailto:lnbowman@alaska.edu">lnbowman@alaska.edu</url></p>
+      <p>phone: 907-474-5427 (you will find it easier to reach me through email)</p>
+    </paragraphs>
+    <paragraphs>
+      <title>Student Help Hours</title>
+      <p>Hours are by appointment through Zoom.  You can use 
+            <url href="https://scheduler.zoom.us/latrice-bowman">
+              Dr. Bowman's Appointment Scheduler</url> to set up an appointment.</p>
+    </paragraphs>
+    <paragraphs>
+      <title>Class Meetings</title>
+      <p>This is an asynchronous online course so there are 
+            no class meeting times, however, you will need to set up times with your 
+            proctor to take assessments.</p>
+    </paragraphs>
+    <paragraphs>
+    <title>Course Description</title>
+      <p>The goal of linear algebra is to study systems of linear equations. It is 
+        difficult to describe the content informally, but there are many algebraic 
+        computations that we will extend to arrays of numbers like vectors and 
+        matrices. Many applications of linear algebra outside of the textbook 
+        are solved using computers however we will be looking at the math behind 
+        these so many of the computations will be done by hand and with the use 
+        of a calculator. This means that students will:
+      <ul>
+        <li>Ability to use matrices to solve equations</li>
+        <li>Ability to obtain linear combinations of vectors</li>
+        <li>Ability to solve applications related to vector equations</li>
+        <li>Ability to demonstrate understanding of linear independence</li>
+        <li>Ability to find images of and geometrically describe linear transformations</li>
+        <li>Ability to perform basic and advanced operations on matrices</li>
+        <li>Ability to prove theorems and demonstrate concept knowledge about invertibility</li>
+        <li>Ability to compute determinants using multiple methods</li>
+        <li>Ability to use determinants to solve applications</li>
+        <li>Ability to prove whether a set is a vector space or a subspace</li>
+        <li>Ability to demonstrate understanding of spanning sets and bases</li>
+        <li>Ability to use dimension and rank to demonstrate understanding of vector spaces</li>
+        <li>Ability to find eigenvalues and eigenvectors in order to diagonalize matrices</li>
+        <li>Ability to find inner products to demonstrate understanding of orthogonality, normality, and factorizations</li>
+      </ul></p>
+      <p>To meet these course outcomes students will be specifically assessed on the following standards:</p>
+      </paragraphs>
+    <paragraphs>
+      <title>Student Learning Outcomes</title>
+      <p>Habit Standards assessed throughout the entire semester
+      <ul>
+        <li>LA-1 GP (written practice)</li>
+        <li>LA-2 Communication</li>
+        <li>LA-3 Reflections</li>
+        <li>LA-4 Participation</li>
+      </ul></p>
+    <p>Content Outcomes assessed within specific content modules (complete descriptions can be found in Canvas)
+    <ul>
+      <li>LSAI-1 Linear Equations</li>
+      <li>LSAI-2 Linear Independence</li>
+      <li>LSAI-3 Linear Transformations</li>
+      <li>LSAI-4 Applications of Linear Systems</li>
+      <li>MD-1 Matrix Operations</li>
+      <li>MD-2 Matrix Inverses</li>
+      <li>MD-3 Determinants and Cramer's Rule</li>
+      <li>VS-1 Vector Spaces and Subspaces</li>
+      <li>VS-2 Linearly Independent Set and Coordinate Systems</li>
+      <li>VS-3 Bases, Dimension and Rank</li>
+      <li>VS-4 Change of Basis</li>
+      <li>EIPO-1 Eigenvalues and Eigenvectors</li>
+      <li>EIPO-2 Diagonalization</li>
+      <li>EIPO-3 Inner Products</li>
+      <li>EIPO-4 Orthogonality</li>
+      <li>EIPO-5 Gram-Schmidt Process</li>
+      <li>EIPO-6 Least Squares</li>
+    </ul>
+    </p></paragraphs>
+  
+</section>

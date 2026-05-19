@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="rubrics" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Rubrics, Schedules, and Grades</title>
+    <p> We will use a few rubrics for this course.  You will be given rubrics on class assignments, and 
+      you will have access to all of the rubrics in Canvas. Here is the rubric for what is meant by Mastery.  
+      For quiz and assessment outcomes in this class, your grade will be one of the following: M, P, R, N.
+    </p>
+   <table>
+	<title>Mastery Rubric</title>
+	<tabular halign="center" left="medium" top="medium">
+		<row bottom="medium">
+			<cell right="medium">
+				Grade
+			</cell>
+			<cell right="medium">
+				Mastery Level
+			</cell>
+			<cell right="medium">
+				Description
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+				M
+			</cell>
+			<cell right="medium">
+				Mastered
+			</cell>
+			<cell right="medium">
+				<p>The solution to the problem is structured, complete, and clear. Correct</p>
+        <p> methods are used, the solution is legible and easy to follow, complete</p>
+        <p>steps are provided, and mathematically, the reasoning is sound. The</p>
+        <p>solution is simplified with correct notation or units where appropriate.</p>
+        <p>There are no errors in the work submitted.</p>
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+				P
+			</cell>
+			<cell right="medium">
+				Progressing
+			</cell>
+			<cell right="medium">
+				<p>The solution shows growth in understanding the topic, but may be incomplete</p>
+        <p> or omit some steps. The work has correct components, but is not presented</p>
+        <p>in a coherent mathematical format. There are minimal errors that do not</p>
+        <p>affect the correctness of the answer in this situation.</p>
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+				R
+			</cell>
+			<cell right="medium">
+				Incomplete
+			</cell>
+			<cell right="medium">
+				<p>The solution shows a start to the process but may be incomplete,</p>
+        <p> missing some steps. The work has incorrect components and is not presented</p>
+        <p>in a coherent mathematical format. Some errors change the correctness of</p>
+        <p>the process as it applies to the situation. The presented work makes it</p>
+        <p>unclear what is understood about the concept.</p>
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+				N
+			</cell>
+			<cell right="medium">
+				Not able to assess
+			</cell>
+			<cell right="medium">
+				<p>There was no attempt made, or there is not enough 
+          fundamental work</p><p>to provide feedback.</p>
+			</cell>
+		</row>
+	</tabular>
+</table>
+    <p>For completion assignments (video lessons, written practice, tutoring, and reflections), you will be graded 
+    using the CPI scale.</p>
+<table>
+	<title>Completion Rubric</title>
+	<tabular halign="center" left="medium" top="medium">
+		<row bottom="medium">
+			<cell right="medium">
+				Grade
+			</cell>
+			<cell right="medium">
+				Completion Level
+			</cell>
+			<cell right="medium">
+				Description
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+				C
+			</cell>
+			<cell right="medium">
+				Complete
+			</cell>
+			<cell right="medium">
+				<p>All required elements of the assignment have been completed,</p>
+        <p>and the assignment was submitted on time.</p>
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+				P
+			</cell>
+			<cell right="medium">
+				Partially complete
+			</cell>
+			<cell right="medium">
+				<p>There are required elements of the assignment that were not</p>
+        <p>completed as asked</p><p>OR</p>
+        <p>The assignment was submitted after the requested due date.</p>
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+				I
+			</cell>
+			<cell right="medium">
+				Incomplete
+			</cell>
+			<cell right="medium">
+				<p>The assignment was not submitted</p><p>OR</p>
+        <p>The assignment was submitted after the due date and</p><p>
+          was partially completed.</p>
+			</cell>
+		</row>
+	</tabular>
+</table>
+
+  <p>Quizzes this semester will be given 2-3 times per week. The assessments will open on one of those days in 
+    weeks when we have only one quiz.  Here are the assessment dates and coverage for the semester.</p>
+    
+    <table>
+	<title>Assessment Information</title>
+	<tabular halign="center" left="medium" top="medium">
+		<row bottom="medium">
+			<cell right="medium">
+				Assessment
+			</cell>
+			<cell right="medium">
+				Available Topics
+			</cell>
+			<cell right="medium">
+				Dates Available
+			</cell>
+			<cell right="medium">
+				Schedule by
+			</cell>
+			<cell right="medium">
+				Time limit
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+				1
+			</cell>
+			<cell right="medium">
+				LSAI-1, LSAI-2, LSAI-3, LSAI-4
+			</cell>
+			<cell right="medium">
+				June 5-8, 2026
+			</cell>
+			<cell right="medium">
+				June 2, 2026
+			</cell>
+			<cell right="medium">
+				90 minutes
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+				2
+			</cell>
+			<cell right="medium">
+				LSAI-1, LSAI-2, LSAI-3, LSAI-4, MD-1, MD-2, MD-3
+			</cell>
+			<cell right="medium">
+				June 19-22, 2026
+			</cell>
+			<cell right="medium">
+				June 15, 2026
+			</cell>
+			<cell right="medium">
+				2 hours
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+				3
+			</cell>
+			<cell right="medium">
+				MD-1, MD-2, MD-3, VS-1, VS-2, VS-3, VS-4
+			</cell>
+			<cell right="medium">
+				July 10-13, 2026
+			</cell>
+			<cell right="medium">
+				July 6, 2026
+			</cell>
+			<cell right="medium">
+				2 hours
+			</cell>
+		</row>
+        
+		<row bottom="medium">
+			<cell right="medium">
+				4
+			</cell>
+			<cell right="medium">
+				VS-1, VS-2, VS-3, VS-4, EIPO-1, EIPO-2, EIPO-3, EIPO-4, EIPO-5, EIPO-6
+			</cell>
+			<cell right="medium">
+				July 31-Aug 3, 2026
+			</cell>
+			<cell right="medium">
+				July 28, 2026
+			</cell>
+			<cell right="medium">
+				2 hours
+			</cell>
+		</row>
+		<row bottom="medium">
+			<cell right="medium">
+				Final
+			</cell>
+			<cell right="medium">
+				All Topics
+			</cell>
+			<cell right="medium">
+				August 6-7, 2026
+			</cell>
+			<cell right="medium">
+				July 31
+			</cell>
+			<cell right="medium">
+				3 hours
+			</cell>
+		</row>
+	</tabular>
+</table>
+
+<paragraphs>
+        <title>Grade Computation</title>
+        <p>
+          There are 20 content outcomes to be mastered twice (1 quiz and 1 assessment, or 2 
+          assessments), 22 video lessons, 18 GP assignments, 6 reflections, 5 tutoring 
+          appointments, and 1 Instructor appointment in this course. The possible grades 
+          earned in this course, in order from lowest to highest, are</p>
+          <p>F D C C+ B- B B+ A- A A+</p>
+          <p>Your base grade (A, B, C, D, F) is determined by Quiz mastery, Assessment mastery, 
+            and GP completion. For the base grade, you will need:</p>
+            <p>14 outcomes with a score of at least M, all the rest at P for both quizzes and 
+              assessments, complete the instructor appointment, and 11 GP assignments to have a base 
+              grade of A;</p>
+              <p>9 outcomes with a score of at least M, all the rest at P for both quizzes and 
+              assessments, complete the instructor appointment, and 9 GP assignments to have a base 
+              grade of B;</p>
+              <p>12 outcomes with a score of at least P, all the rest at R for both quizzes and 
+                assessments, complete the instructor appointment, and 7 GP assignments to have a base 
+                grade of C;</p>
+              <p>All outcomes with a score of at least R for both quizzes and assessments, and 
+                5 GP assignments to have a base grade of D;</p>
+              <p>If you have not met the above requirements, then your base grade would be an F</p>
+              <p><em>If your base grade is an F, the highest grade you can earn in this course 
+                is a D. If your base grade is a D, then the highest grade you can earn in this 
+                course is a C.</em></p>
+              <p>If you have at least 18 video lessons, your base grade would be one grade higher. 
+                If you have at least 14 video lessons, then your base grade would remain the same. 
+                If you have fewer than 14 video lessons, your base grade would be one grade lower.</p>
+              <p>If you have credit for at least 4 appointments, your base grade would move one 
+                grade to the right. If you have credit for at least two appointments, your base 
+                grade will remain the same. If you have fewer than 2 appointments, your base grade 
+                would move one grade to the left.</p>
+              <p>If you have at least 5 engagements, then your base grade would go one grade to 
+                the right. If you have at least 3 engagements, then your base grade would remain 
+                the same. If you have fewer than 3 engagements, then your base grade would go one 
+                grade to the left.</p>
+        </paragraphs>
+</section>

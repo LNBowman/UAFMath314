@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<!-- This is the main course file for ... . It is used to generate all the public facing course materials so those can be hosted online.  -->
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- Include common macros etc: -->
+  <xi:include href="./docinfo.ptx" />
+  <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
+  <book>
+    <title>Linear Algebra</title>
+
+    <subtitle>UAF MATH F314</subtitle>
+
+    <!-- Optional: include frontmatter with author info and date -->
+    <xi:include href="./frontmatter_assessments.ptx" />
+    <chapter>
+      <title>Assessment Outcomes</title>
+      <introduction><p>Here are the versions used for each semester:</p>
+        <p>Summer 2026:
+          <ul>
+            <li><p>Assessment 1: LSAI version A</p></li>
+            <li><p>Assessment 2: LSAI version B</p></li>
+            <li><p>Assessment 3: </p></li>
+            <li><p>Assessment 4: </p></li> 
+            <li><p>Assessment 5: </p></li>
+            <li><p>Final Assessment: LSAI version C </p></li>
+          </ul></p>
+        <p>Summer 2027:
+        <ul>
+            <li><p>Assessment 1: LSAI version C</p></li>
+            <li><p>Assessment 2: LSAI version D</p></li>
+            <li><p>Assessment 3: </p></li>
+            <li><p>Assessment 4: </p></li>
+            <li><p>Assessment 5: </p></li>
+            <li><p>Final Assessment: LSAI version E</p></li>
+        </ul></p>
+      </introduction>
+        <section xml:id="sec-lsai-outcomes">
+            <title>Linear Systems, Applications, and Independence</title>
+            <introduction><p>Here are the assessment outcomes for Linear Systems, Applications, and Independence. There are multiple versions 
+                of each outcome so that there are options for multiple semesters of assessments. This section is 
+                divided into 4 outcomes:
+                <ul>
+                <li><p>Linear Systems</p></li>
+                <li><p>Linear Independence</p></li>
+                <li><p>Transformations of Linear Systems</p></li>
+                <li><p>Applications of Linear Systems</p></li>
+                </ul></p></introduction>
+            <subsection xml:id="sec-lsai1-outcomes">
+            <title>LSAI-1 Linear Systems</title>
+            <xi:include href="./assessments/lsai-outcomes/lsai-1-a.ptx" />
+            </subsection>
+        </section>
+    </chapter>
+  </book>
+</pretext>
