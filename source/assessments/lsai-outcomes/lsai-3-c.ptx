@@ -6,10 +6,11 @@
   <page>
     <exercise workspace="1.5in">
         <introduction><p>A linear transformation <m>T: \mathbb{R}^2 \to \mathbb{R}^2</m> is 
-          defined by <md alignment="alignat" alignat-columns="2"><mrow>T(\mathbf{x}) = 
-            \begin{bmatrix}2&amp;-3\\1&amp;2\end{bmatrix}\mathbf{x}</mrow></md></p></introduction>
+          defined by <md alignment="alignat" alignat-columns="2">
+            <mrow>T(\mathbf{x}) = \begin{bmatrix} 1 &amp; 3 \\ -1 &amp; 0 \end{bmatrix}\mathbf{x}</mrow>
+          </md></p></introduction>
       <task><statement><p>Compute <m>T(\mathbf{v})</m> where <md alignment="alignat" alignat-columns="1">
-        <mrow>\mathbf{v} = \begin{bmatrix} 3\\-4 \end{bmatrix}</mrow></md>.</p></statement></task>
+        <mrow>\mathbf{v} = \begin{bmatrix} 4\\1 \end{bmatrix}</mrow></md>.</p></statement></task>
       <task><statement><p>Plot the image of the unit square, <m>S</m>, under the transformation <m>T</m> (label your work).</p>
       <figure>
             <caption>Region S (the unit square) with a blank space for the transformation.</caption>
@@ -20,8 +21,9 @@
   <page>
     <exercise workspace="1.5in">
           <introduction><p>A linear transformation <m>R: \mathbb{R}^3 \to \mathbb{R}^2</m> is 
-          defined by <md alignment="alignat" alignat-columns="3"><mrow>R(\mathbf{x}) = 
-            \begin{bmatrix}-1&amp;1&amp;2\\0&amp;1&amp;-3\end{bmatrix}\mathbf{x}</mrow></md> where 
+          defined by <md alignment="alignat" alignat-columns="3">
+            <mrow>R(\mathbf{x}) = \begin{bmatrix} 2 &amp; 1 &amp; -1 \\ 4 &amp; 2 &amp; 3 \end{bmatrix}\mathbf{x}</mrow>
+          </md> where 
             <md alignment="alignat" alignat-columns="1"><mrow>\mathbf{x} = \begin{bmatrix} x_1 \\ x_2 \\x_3\end{bmatrix}</mrow></md>.</p></introduction>
       <task><statement><p>Give the set of points in <m>\mathbb{R}^3</m> that are mapped to 
         <md alignment="alignat" alignat-columns="1"><mrow>\begin{bmatrix} 0 \\ 0\end{bmatrix}</mrow></md> 

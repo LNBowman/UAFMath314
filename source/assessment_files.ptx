@@ -64,6 +64,18 @@
             <subsection xml:id="sec-lsai3-outcomes">
             <title>LSAI-3 Transformations of Linear Systems</title>
             <xi:include href="./assessments/lsai-outcomes/lsai-3-a.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-3-b.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-3-c.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-3-d.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-3-e.ptx" />
+            </subsection>
+            <subsection xml:id="sec-lsai4-outcomes">
+            <title>LSAI-4 Applications of Linear Systems</title>
+            <xi:include href="./assessments/lsai-outcomes/lsai-4-a.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-4-b.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-4-c.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-4-d.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-4-e.ptx" />
             </subsection>
         </section>
     </chapter>

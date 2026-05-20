@@ -1,0 +1,26 @@
+<worksheet >
+    <title>LSAI-4 Application of Linear Systems</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete both problems. Complete one problem with progress on the other to earn a P.</p>
+  </introduction>  
+  <page>
+    <exercise workspace="1.75in">
+        <introduction><p>A network of one-way streets is shown in the figure below.</p>
+         <image source="flow_pattern_4.png" width="50%" margins="0% 50%" />
+        </introduction>
+      <task><statement><p>Set up a system of linear equations using the variables <m>x_1, x_2, x_3, x_4</m> 
+        corresponding to the flow at each intersection.</p></statement></task>
+      <task><statement><p>Assuming that all of the flows are non-negative, find a general solution to 
+        the system.</p></statement></task>
+      <task><statement><p>Assuming that all of the flows are non-negative, find a specific solution to 
+        the system with the smallest possible value for <m>x_4</m>.</p></statement></task>
+    </exercise>
+  </page>
+  <page>
+    <exercise workspace="1.5in">
+          <introduction><p>Consider the chemical reaction: <md>N_2 + H_2 \to NH_3</md></p></introduction>
+      <task><statement><p>Set up a system of linear equations to represent this chemical reaction.</p></statement></task>
+        <task><statement><p>Balance the chemical equation. Support your answer.</p></statement></task>
+    </exercise>
+  </page>
+</worksheet>
