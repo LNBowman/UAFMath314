@@ -1,0 +1,1373 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US" dir="ltr">
+<!--******************************************-->
+<!--*  Authored with PreTeXt                 *-->
+<!--*  pretextbook.org                       *-->
+<!--*  Theme: default-modern                 *-->
+<!--*  Palette:                              *-->
+<!--******************************************-->
+<head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Math 253 Summer 2026 Online Schedule</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+<link href="_static/pretext/css/theme.css" rel="stylesheet" type="text/css">
+<script type="module">import { startMathJax } from './_static/pretext/js/mathjax_startup.js';
+startMathJax({
+hasWebworkReps: false,
+hasSage: false,
+isReact: false,
+htmlPresentation: false,
+});
+</script><script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script><meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:type" content="book">
+<meta property="book:title" content="Linear Algebra">
+<meta property="book:author" content="Dr. Latrice Bowman">
+<script src="_static/pretext/js/jquery.min.js"></script><script src="_static/pretext/js/pretext.js"></script><script src="_static/pretext/js/pretext_add_on.js?x=1"></script><!--** eBookCongig is necessary to configure interactive       **-->
+<!--** Runestone components to run locally in reader's browser **-->
+<!--** No external communication:                              **-->
+<!--**     log level is 0, Runestone Services are disabled     **-->
+<script type="text/javascript">
+eBookConfig = {};
+eBookConfig.useRunestoneServices = false;
+eBookConfig.host = 'http://127.0.0.1:8000';
+eBookConfig.course = 'PTX_Course_Title_Here';
+eBookConfig.basecourse = 'PTX_Base_Course';
+eBookConfig.isLoggedIn = false;
+eBookConfig.email = '';
+eBookConfig.isInstructor = false;
+eBookConfig.logLevel = 0;
+eBookConfig.username = '';
+eBookConfig.readings = null;
+eBookConfig.activities = null;
+eBookConfig.downloadsEnabled = false;
+eBookConfig.allow_pairs = false;
+eBookConfig.enableScratchAC = false;
+eBookConfig.build_info = "";
+eBookConfig.python3 = null;
+eBookConfig.runestone_version = '8.0.0';
+eBookConfig.jobehost = '';
+eBookConfig.proxyuri_runs = '';
+eBookConfig.proxyuri_files = '';
+eBookConfig.enable_chatcodes =  false;
+</script>
+<!--*** Runestone Services ***-->
+<script src="_static/prefix-runtime.ce7e0a2163cb330f.bundle.js"></script><script src="_static/prefix-713.de0ab26248766350.bundle.js"></script><script src="_static/prefix-runestone.f4a2ffb04bb978bb.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-713.f43ced6a6134ea74.css">
+<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.87414d180ebeebd6.css">
+<script src="_static/pretext/js/lti_iframe_resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><script src="_static/pretext/js/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script>
+</head>
+<body class="pretext book ignore-math">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner"><div class="title-container">
+<h1 class="heading"><a href="root-1-2.html"><span class="title">Linear Algebra</span> <span class="subtitle">UAF MATH 314</span></a></h1>
+<p class="byline">Dr. Latrice Bowman</p>
+</div></div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><div class="ptx-navbar-contents">
+<button class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><div class="searchbox">
+<div class="searchwidget"><button id="searchbutton" class="searchbutton button" type="button" title="Search book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
+<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
+<div class="search-results-controls">
+<input aria-label="Search term" id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search term"><button title="Close search" id="closesearchresults" class="closesearchresults"><span class="material-symbols-outlined">close</span></button>
+</div>
+<h2 class="search-results-heading">Search Results: </h2>
+<div id="searchempty" class="searchempty"><span>No results.</span></div>
+<ol id="searchresults" class="searchresults"></ol>
+</div>
+</div>
+<span class="nav-other-controls"><button id="embed-button" class="embed-button button" title="Embed this page"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe86f;</span><span class="name">Embed</span></button><div class="embed-popup hidden" id="embed-popup">
+<p>Copy the code below to embed this page in your own website or LMS page.</p>
+<div class="embed-code-container">
+<textarea class="embed-code-textbox" id="embed-code-textbox" readonly aria-label="textbox"><iframe src="https://example.com/embed" width="100%" height="1000"></iframe></textarea><button class="copy-embed-button button" id="copy-embed-button" title="Copy embed code"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe14d;</span><span class="name">Copy</span></button>
+</div>
+</div>
+<button id="light-dark-button" class="light-dark-button button" title="Dark Mode"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe51c;</span><span class="name">Dark Mode</span></button></span><span class="treebuttons"><a class="previous-button button" href="support.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="course-documents.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="linear-systems-applications-and-independence.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
+</div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\N}{\mathbb N}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\Q}{\mathbb Q}
+\newcommand{\R}{\mathbb R}
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\definecolor{fillinmathshade}{gray}{0.9}
+\newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
+\)</span></div>
+<div class="ptx-page">
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth3 focused" data-preexpanded-levels="0" data-max-levels="3"><ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-frontmatter"><div class="toc-title-box"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
+<li class="toc-item toc-chapter contains-active">
+<div class="toc-title-box"><a href="course-documents.html" class="internal"><span class="title">Course Documents</span></a></div>
+<ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="syllabus.html" class="internal"><span class="title">Course Information</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="components.html" class="internal"><span class="title">Course Components</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="rubrics.html" class="internal"><span class="title">Rubrics, Schedules, and Grades</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="policies.html" class="internal"><span class="title">Course and University Policies</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="support.html" class="internal"><span class="title">How to Succeed in this Course</span></a></div></li>
+<li class="toc-item toc-worksheet active"><div class="toc-title-box"><a href="course-documents-7.html" class="internal"><span class="title">Math 253 Summer 2026 Online Schedule</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="linear-systems-applications-and-independence.html" class="internal"><span class="title">Linear Systems, Applications, and Independence</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-section"><div class="toc-title-box"><a href="lsai1-materials.html" class="internal"><span class="title">Linear Systems</span></a></div></li></ul>
+</li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content">
+<div class="print-preview-header">
+<h2 class="print-preview">Print preview</h2>
+<div class="print-controls">
+<div class="print-controls-toggles">
+<form class="papersize-select" id="papersize-select">
+<span class="name">Paper size</span><label><input type="radio" name="papersize" value="a4">A4
+        </label><label><input type="radio" name="papersize" value="letter">Letter
+        </label>
+</form>
+<details class="print-options"><summary>Additional printing options</summary><div class="header-footer-options">
+<div class="header-option">
+<span class="title">Print headers</span><label>First page<input type="checkbox" id="print-first-page-header-checkbox" checked></label><label>Running<input type="checkbox" id="print-running-header-checkbox" checked></label>
+</div>
+<div class="footer-option">
+<span class="title">Print footers</span><label>First page<input type="checkbox" id="print-first-page-footer-checkbox" checked></label><label>Running<input type="checkbox" id="print-running-footer-checkbox" checked></label>
+</div>
+</div>
+<div class="highlight-workspace-option">
+<label for="highlight-workspace-checkbox">Highlight workspace</label><input type="checkbox" id="highlight-workspace-checkbox">
+</div></details>
+</div>
+<button class="print-button" title="Print" onClick="window.print()"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8ad;</span><span class="name">Print</span></button>
+</div>
+</div>
+<section class="worksheet" id="course-documents-7" data-margins="0.75in 0.75in 0.75in 0.75in">
+<h2 class="heading hide-type">
+<span class="type">Worksheet</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Math 253 Summer 2026 Online Schedule</span><div class="print-links"><a href="?printpreview=course-documents-7" class="print-link" title="Print preview"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8ad;</span></a></div>
+</h2>
+<section class="introduction" id="course-documents-7-2">
+<div class="para" id="course-documents-7-2-1">Use this schedule/checklist to make sure that you have completed all of the graded components of the course.<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div></section><section class="onepage" id="course-documents-7-3">
+<figure class="table table-like" id="course-documents-7-3-1"><figcaption><span class="type">Table</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">4<span class="period heading-divison-mark heading-divison-mark__period">.</span></span><span class="space heading-divison-mark heading-divison-mark__space"> </span>Math 253 Calculus III Summer Checklist (weeks 1-2)<div class="autopermalink" data-description="Table 4: Math 253 Calculus III Summer Checklist (weeks 1-2)"><a href="#course-documents-7-3-1" title="Copy heading and permalink for Table 4: Math 253 Calculus III Summer Checklist (weeks 1-2)" aria-label="Copy heading and permalink for Table 4: Math 253 Calculus III Summer Checklist (weeks 1-2)">🔗</a></div></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr>
+<td class="c m b2 r2 l2 t2 lines" colspan="2">Date</td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-3-1-2-1-2-1">Lessons<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-3-1-2-1-2-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-1-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-3-1-2-1-4-1">WP<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-3-1-2-1-4-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-1-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-3-1-2-1-6-1">LO<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-3-1-2-1-6-2">Quiz Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-1-6-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-3-1-2-1-8-1">Revisions and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-1-8-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-3-1-2-1-8-2">Retakes Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-1-8-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2 lines">Assessments</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-3-1-2-1-12-1">Tutoring and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-1-12-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-3-1-2-1-12-2">Reflections<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-1-12-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines" colspan="2">Week 0 Preliminary Information</td>
+<td class="c m b2 r2 l0 t0" colspan="12" style="max-width:120">
+<div class="para" id="course-documents-7-3-1-2-2-2-1">W May 13 -U May 17 - Canvas course is open for preview. Log in to Canvas and start working through the course introduction module. Some of the assignments in this module are part of your Engagement grade and will help you navigate this course. In this module, you will also learn more about the course setup and expectations. In addition, if you have not had math in a while or struggle with Algebraic, Precalculus concepts, I would recommend reviewing the items in the Review Module. You should have a good understanding of the concepts in this module before starting this course.<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-2-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 1</td>
+<td class="c m b2 r2 l0 t0 lines">M May 18</td>
+<td class="c m b2 r2 l0 t0 lines">Course Introduction</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T May 19</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W May 20</td>
+<td class="c m b2 r2 l0 t0 lines">Introduction to Vector Applications</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Sample Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Reflection 1</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R May 21</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F May 22</td>
+<td class="c m b2 r2 l0 t0 lines">L1</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0" style="max-width:120">
+<div class="para" id="course-documents-7-3-1-2-7-13-1">Schedule Instructor Appointment<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-7-13-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-3-1-2-7-13-2">Reflection 2<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-3-1-2-7-13-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 2</td>
+<td class="c m b2 r2 l0 t0 lines">M May 25</td>
+<td class="c m b2 r2 l0 t0 lines" colspan="12">No Class -- Memorial Day</td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T May 26</td>
+<td class="c m b2 r2 l0 t0 lines">Introduction to Lines, Planes, and Surfaces</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP1 + Video</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W May 27</td>
+<td class="c m b2 r2 l0 t0 lines">L2</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">FUN-1 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Set up Proctor</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R May 28</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP2 + Exploration</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Instructor Appt Due</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F May 29</td>
+<td class="c m b2 r2 l0 t0 lines">Information on Vector Valued Functions</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">FUN-2 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+</table></div>
+</figure></section><section class="onepage" id="course-documents-7-4">
+<figure class="table table-like" id="course-documents-7-4-1"><figcaption><span class="type">Table</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">5<span class="period heading-divison-mark heading-divison-mark__period">.</span></span><span class="space heading-divison-mark heading-divison-mark__space"> </span>Math 253 Calculus III Summer Checklist (weeks 3-4)<div class="autopermalink" data-description="Table 5: Math 253 Calculus III Summer Checklist (weeks 3-4)"><a href="#course-documents-7-4-1" title="Copy heading and permalink for Table 5: Math 253 Calculus III Summer Checklist (weeks 3-4)" aria-label="Copy heading and permalink for Table 5: Math 253 Calculus III Summer Checklist (weeks 3-4)">🔗</a></div></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr>
+<td class="c m b2 r2 l2 t2 lines" colspan="2">Date</td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-4-1-2-1-2-1">Lessons<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-4-1-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-4-1-2-1-2-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-4-1-2-1-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-4-1-2-1-4-1">WP<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-4-1-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-4-1-2-1-4-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-4-1-2-1-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-4-1-2-1-6-1">LO<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-4-1-2-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-4-1-2-1-6-2">Quiz Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-4-1-2-1-6-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-4-1-2-1-8-1">Revisions and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-4-1-2-1-8-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-4-1-2-1-8-2">Retakes Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-4-1-2-1-8-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2 lines">Assessments</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-4-1-2-1-12-1">Tutoring and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-4-1-2-1-12-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-4-1-2-1-12-2">Reflections<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-4-1-2-1-12-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 3</td>
+<td class="c m b2 r2 l0 t0 lines">M Jun 1</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Tutoring Appt 1 Due</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T Jun 2</td>
+<td class="c m b2 r2 l0 t0 lines">L3</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W Jun 3</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP3+ Exploration</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">FUN-1 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Instructor Appointment Due</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R Jun 4</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Functions of Several Variables</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">FUN-3 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Reflection 3</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F Jun 5</td>
+<td class="c m b2 r2 l0 t0 lines">L4</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">FUN-2 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Schedule Assessment 1</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 4</td>
+<td class="c m b2 r2 l0 t0 lines">M Jun 8</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Partial Derivatives</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP4 + Exploration</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T Jun 9</td>
+<td class="c m b2 r2 l0 t0 lines">L5</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">FUN-4 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W Jun 10</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP5</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R Jun 11</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">FUN-3 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b0 r2 l0 t0 lines">Assessment 1</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F Jun 12</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+</table></div>
+</figure></section><section class="onepage" id="course-documents-7-5">
+<figure class="table table-like" id="course-documents-7-5-1"><figcaption><span class="type">Table</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">6<span class="period heading-divison-mark heading-divison-mark__period">.</span></span><span class="space heading-divison-mark heading-divison-mark__space"> </span>Math 156 Linear Algebra Summer Checklist (weeks 5-6)<div class="autopermalink" data-description="Table 6: Math 156 Linear Algebra Summer Checklist (weeks 5-6)"><a href="#course-documents-7-5-1" title="Copy heading and permalink for Table 6: Math 156 Linear Algebra Summer Checklist (weeks 5-6)" aria-label="Copy heading and permalink for Table 6: Math 156 Linear Algebra Summer Checklist (weeks 5-6)">🔗</a></div></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr>
+<td class="c m b2 r2 l2 t2 lines" colspan="2">Date</td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-5-1-2-1-2-1">Lessons<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-5-1-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-5-1-2-1-2-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-5-1-2-1-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-5-1-2-1-4-1">WP<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-5-1-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-5-1-2-1-4-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-5-1-2-1-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-5-1-2-1-6-1">LO<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-5-1-2-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-5-1-2-1-6-2">Quiz Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-5-1-2-1-6-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-5-1-2-1-8-1">Revisions and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-5-1-2-1-8-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-5-1-2-1-8-2">Retakes Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-5-1-2-1-8-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2 lines">Assessments</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-5-1-2-1-12-1">Tutoring and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-5-1-2-1-12-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-5-1-2-1-12-2">Reflections<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-5-1-2-1-12-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 5</td>
+<td class="c m b2 r2 l0 t0 lines">M Jun 15</td>
+<td class="c m b2 r2 l0 t0 lines">Information for the Chain Rule</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Tutoring Appt 2 Due</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T Jun 16</td>
+<td class="c m b2 r2 l0 t0 lines">L6</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">DC-1 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">FUN-4 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">RSI Student Survey Due</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W Jun 17</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Gradient, Tangent Planes, and Linear Approximation</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP6</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Reflection 4</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R Jun 18</td>
+<td class="c m b2 r2 l0 t0 lines">L7</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">DC-2 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F Jun 19</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP7</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Schedule Assessment 2</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 6</td>
+<td class="c m b2 r2 l0 t0 lines">M Jun 22</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Maximum and Minimum</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T Jun 23</td>
+<td class="c m b2 r2 l0 t0 lines">L8</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">DC-3 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">DC-1 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W Jun 24</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Lagrange Multipliers</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP8</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R Jun 25</td>
+<td class="c m b2 r2 l0 t0 lines">L9</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">DC-4 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">DC-2 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F Jun 26</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Double Integrals</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP9 + Exploration</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Tutoring Appt 3 Due</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+</table></div>
+</figure></section><section class="onepage" id="course-documents-7-6">
+<figure class="table table-like" id="course-documents-7-6-1"><figcaption><span class="type">Table</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">7<span class="period heading-divison-mark heading-divison-mark__period">.</span></span><span class="space heading-divison-mark heading-divison-mark__space"> </span>Math 253 Calculus III Summer Checklist (weeks 7-8)<div class="autopermalink" data-description="Table 7: Math 253 Calculus III Summer Checklist (weeks 7-8)"><a href="#course-documents-7-6-1" title="Copy heading and permalink for Table 7: Math 253 Calculus III Summer Checklist (weeks 7-8)" aria-label="Copy heading and permalink for Table 7: Math 253 Calculus III Summer Checklist (weeks 7-8)">🔗</a></div></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr>
+<td class="c m b2 r2 l2 t2 lines" colspan="2">Date</td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-6-1-2-1-2-1">Lessons<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-6-1-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-6-1-2-1-2-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-6-1-2-1-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-6-1-2-1-4-1">WP<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-6-1-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-6-1-2-1-4-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-6-1-2-1-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-6-1-2-1-6-1">LO<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-6-1-2-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-6-1-2-1-6-2">Quiz Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-6-1-2-1-6-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-6-1-2-1-8-1">Revisions and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-6-1-2-1-8-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-6-1-2-1-8-2">Retakes Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-6-1-2-1-8-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2 lines">Assessments</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-6-1-2-1-12-1">Tutoring and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-6-1-2-1-12-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-6-1-2-1-12-2">Reflections<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-6-1-2-1-12-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 7</td>
+<td class="c m b2 r2 l0 t0 lines">M Jun 29</td>
+<td class="c m b2 r2 l0 t0 lines">L10</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T Jun 30</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Triple Integrals</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP10</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">DC-5 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">DC-3 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W Jul 1</td>
+<td class="c m b2 r2 l0 t0 lines">L11</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R Jul 2</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">DC-4 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b0 r2 l0 t0 lines">Assessment 2</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F Jul 3</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 8</td>
+<td class="c m b2 r2 l0 t0 lines">M Jul 6</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Integrals of Mass</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">IC-1 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Reflection 5</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T Jul 7</td>
+<td class="c m b2 r2 l0 t0 lines">L12</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP11</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">DC-5 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W Jul 8</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">IC-2 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R Jul 9</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Change of Variables</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP12</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F Jul 10</td>
+<td class="c m b2 r2 l0 t0 lines">L13</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">IC-3 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Schedule Assessment 3</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Tutoring Appt 4 Due</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+</table></div>
+</figure></section><section class="onepage" id="course-documents-7-7">
+<figure class="table table-like" id="course-documents-7-7-1"><figcaption><span class="type">Table</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">8<span class="period heading-divison-mark heading-divison-mark__period">.</span></span><span class="space heading-divison-mark heading-divison-mark__space"> </span>Math 253 Calculus III Summer Checklist (weeks 9-10)<div class="autopermalink" data-description="Table 8: Math 253 Calculus III Summer Checklist (weeks 9-10)"><a href="#course-documents-7-7-1" title="Copy heading and permalink for Table 8: Math 253 Calculus III Summer Checklist (weeks 9-10)" aria-label="Copy heading and permalink for Table 8: Math 253 Calculus III Summer Checklist (weeks 9-10)">🔗</a></div></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr>
+<td class="c m b2 r2 l2 t2 lines" colspan="2">Date</td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-7-1-2-1-2-1">Lessons<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-7-1-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-7-1-2-1-2-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-7-1-2-1-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-7-1-2-1-4-1">WP<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-7-1-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-7-1-2-1-4-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-7-1-2-1-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-7-1-2-1-6-1">LO<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-7-1-2-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-7-1-2-1-6-2">Quiz Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-7-1-2-1-6-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-7-1-2-1-8-1">Revisions and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-7-1-2-1-8-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-7-1-2-1-8-2">Retakes Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-7-1-2-1-8-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2 lines">Assessments</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-7-1-2-1-12-1">Tutoring and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-7-1-2-1-12-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-7-1-2-1-12-2">Reflections<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-7-1-2-1-12-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 9</td>
+<td class="c m b2 r2 l0 t0 lines">M Jul 13</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP13 + Video</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">IC-1 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T Jul 14</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Line Integrals and Vector Fields</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">IC-4 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W Jul 15</td>
+<td class="c m b2 r2 l0 t0 lines">L14</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">IC-2 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R Jul 16</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b0 r2 l0 t0 lines">Assessment 3</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Reflection 6</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F Jul 17</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">IC-3 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 10</td>
+<td class="c m b2 r2 l0 t0 lines">M Jul 20</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Green’s Theorem</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP14</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T Jul 21</td>
+<td class="c m b2 r2 l0 t0 lines">L15</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">APP-1 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">IC-4 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W Jul 22</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP15 + Video</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R Jul 23</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Surface Integrals</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">APP-2 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F Jul 24</td>
+<td class="c m b2 r2 l0 t0 lines">L16</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Schedule Assessment 4</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Tutoring Appt 5 Due</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+</table></div>
+</figure></section><section class="onepage" id="course-documents-7-8">
+<figure class="table table-like" id="course-documents-7-8-1"><figcaption><span class="type">Table</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">9<span class="period heading-divison-mark heading-divison-mark__period">.</span></span><span class="space heading-divison-mark heading-divison-mark__space"> </span>Math 253 Calculus III Summer Checklist (weeks 11-12)<div class="autopermalink" data-description="Table 9: Math 253 Calculus III Summer Checklist (weeks 11-12)"><a href="#course-documents-7-8-1" title="Copy heading and permalink for Table 9: Math 253 Calculus III Summer Checklist (weeks 11-12)" aria-label="Copy heading and permalink for Table 9: Math 253 Calculus III Summer Checklist (weeks 11-12)">🔗</a></div></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr>
+<td class="c m b2 r2 l2 t2 lines" colspan="2">Date</td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-8-1-2-1-2-1">Lessons<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-8-1-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-8-1-2-1-2-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-8-1-2-1-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-8-1-2-1-4-1">WP<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-8-1-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-8-1-2-1-4-2">Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-8-1-2-1-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-8-1-2-1-6-1">LO<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-8-1-2-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-8-1-2-1-6-2">Quiz Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-8-1-2-1-6-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-8-1-2-1-8-1">Revisions and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-8-1-2-1-8-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-8-1-2-1-8-2">Retakes Due<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-8-1-2-1-8-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2 lines">Assessments</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+<td class="c m b2 r2 l0 t2" style="max-width:120">
+<div class="para" id="course-documents-7-8-1-2-1-12-1">Tutoring and<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-8-1-2-1-12-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="course-documents-7-8-1-2-1-12-2">Reflections<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-8-1-2-1-12-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="c m b2 r2 l0 t2 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 11</td>
+<td class="c m b2 r2 l0 t0 lines">M Jul 27</td>
+<td class="c m b2 r2 l0 t0 lines">Information for Stokes’ and the Divergence Theorems</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP16 + Exploration</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T Jul 28</td>
+<td class="c m b2 r2 l0 t0 lines">L17</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">APP-3 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">APP-1 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W Jul 29</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">WP17</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R Jul 30</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">APP-4 Quiz</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">APP-2 Revision and Retake</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">Schedule Final Assessment</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F Jul 31</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b0 r2 l0 t0 lines">Assessment 4</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines">Week 12</td>
+<td class="c m b2 r2 l0 t0 lines">M Aug 3</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">T Aug 4</td>
+<td class="c m b2 r2 l0 t0" colspan="12" style="max-width:120">
+<div class="para" id="course-documents-7-8-1-2-8-3-1">This is the last day to submit any WP assignments, Video Lessons, Reflections, APP revisions or retakes and Tutoring Appointment 6.<div class="autopermalink" data-description="Paragraph"><a href="#course-documents-7-8-1-2-8-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">W Aug 5</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b0 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">R Aug 6</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b0 r2 l0 t0 lines">Final Assessment</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="c m b2 r2 l2 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines">F Aug 7</td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+<td class="c m b2 r2 l0 t0 lines"></td>
+</tr>
+</table></div>
+</figure></section><div class="autopermalink" data-description="Worksheet: Math 253 Summer 2026 Online Schedule"><a href="#course-documents-7" title="Copy heading and permalink for Worksheet: Math 253 Summer 2026 Online Schedule" aria-label="Copy heading and permalink for Worksheet: Math 253 Summer 2026 Online Schedule">🔗</a></div>
+</section>
+</div>
+<div id="ptx-content-footer" class="ptx-content-footer">
+<a class="previous-button button" href="support.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="linear-systems-applications-and-independence.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
+</div></main>
+</div>
+<div id="ptx-page-footer" class="ptx-page-footer">
+<a class="feedback-link" href="mailto:lnbowman@alaska.edu" target="_blank">Feedback</a><a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="338 3000 8772 6866" role="img"><title>PreTeXt logo</title><g style="stroke-width:.025in; stroke:currentColor; fill:none"><polyline points="472,3590 472,9732 " style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png" alt="Runstone Academy logo"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png" alt="MathJax logo"></a>
+</div>
+</body>
+</html>
