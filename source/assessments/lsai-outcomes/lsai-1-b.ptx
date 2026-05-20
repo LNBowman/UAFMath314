@@ -6,7 +6,7 @@
   <page>
     <exercise workspace="1.5in">
         <introduction><p>Consider the following linear system:
-          <md>x_1-3x_2+2x_3=6\\2x_1+x_2-2x_3=7\\4x_1+2x_2-x_3=6</md></p></introduction>
+          <md>x_1 + 2x_2 - x_3 = 2\\2x_1 + 5x_2 + 2x_3 = 7\\x_1 + 3x_2 + 4x_3 = 6</md></p></introduction>
       <task><statement><p>Write the system as a <em>vector equation</em>.</p></statement></task>
       <task><statement><p>Write the system as a <em>matrix equation</em>.</p></statement></task>
       <task><statement><p>Solve the system, using linear algebra techniques. Show your work, 

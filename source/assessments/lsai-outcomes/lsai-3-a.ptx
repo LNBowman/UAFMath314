@@ -1,0 +1,30 @@
+<worksheet >
+    <title>LSAI-3 Transformations of Linear Systems</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all parts of both problems. Complete parts 1b and 2a to earn a P.</p>
+  </introduction>  
+  <page>
+    <exercise workspace="1.5in">
+        <introduction><p>A linear transformation <m>T: \mathbb{R}^2 \to \mathbb{R}^2</m> is 
+          defined by <md alignment="alignat" alignat-columns="2"><mrow>T(\mathbf{x}) = 
+            \begin{bmatrix}2&amp;-3\\1&amp;2\end{bmatrix}\mathbf{x}</mrow></md></p></introduction>
+      <task><statement><p>Compute <m>T(\mathbf{v})</m> where <md alignment="alignat" alignat-columns="1">
+        <mrow>\mathbf{v} = \begin{bmatrix} 3\\-4 \end{bmatrix}</mrow></md>.</p></statement></task>
+      <task><statement><p>Plot the image of the unit square, <m>S</m>, under the transformation <m>T</m> (label your work).</p>
+      <figure>
+            <caption>Region S (the unit square) with a blank space for the transformation.</caption>
+            <image source="./Square_transformation.png"/>
+          </figure></statement></task>
+    </exercise>
+    <exercise>
+          <introduction><p>A linear transformation <m>R: \mathbb{R}^2 \to \mathbb{R}^2</m> is 
+          defined by <md alignment="alignat" alignat-columns="3"><mrow>R(\mathbf{x}) = 
+            \begin{bmatrix}-1&amp;1&amp;2\\0&amp;1&amp;-3\end{bmatrix}\mathbf{x}</mrow></md> where 
+            <md alignment="alignat" alignat-columns="1"><mrow>\mathbf{x} = \begin{bmatrix} x_1 \\ x_2 \\x_3\end{bmatrix}</mrow></md>.</p></introduction>
+      <task><statement><p>Give the set of points in <m>\mathbb{R}^3</m> that are mapped to 
+        <md alignment="alignat" alignat-columns="1"><mrow>\begin{bmatrix} 0 \\ 0\end{bmatrix}</mrow></md> 
+        by the transformation <m>R</m>.</p></statement></task>
+        <task><statement><p>What is a geometric description of the set of points you found in part (2a)? Be as clear as you can.</p></statement></task>
+    </exercise>
+  </page>
+</worksheet>

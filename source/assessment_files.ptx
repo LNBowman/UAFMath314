@@ -48,6 +48,22 @@
             <subsection xml:id="sec-lsai1-outcomes">
             <title>LSAI-1 Linear Systems</title>
             <xi:include href="./assessments/lsai-outcomes/lsai-1-a.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-1-b.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-1-c.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-1-d.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-1-e.ptx" />
+            </subsection>
+            <subsection xml:id="sec-lsai2-outcomes">
+            <title>LSAI-2 Linear Independence</title>
+            <xi:include href="./assessments/lsai-outcomes/lsai-2-a.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-2-b.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-2-c.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-2-d.ptx" />
+            <xi:include href="./assessments/lsai-outcomes/lsai-2-e.ptx" />
+            </subsection>
+            <subsection xml:id="sec-lsai3-outcomes">
+            <title>LSAI-3 Transformations of Linear Systems</title>
+            <xi:include href="./assessments/lsai-outcomes/lsai-3-a.ptx" />
             </subsection>
         </section>
     </chapter>

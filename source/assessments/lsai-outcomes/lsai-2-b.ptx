@@ -1,0 +1,22 @@
+<worksheet >
+    <title>LSAI-2 Linear Independence</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all four problems. Complete problem 4 and two other problems to earn a P.</p>
+  </introduction>  
+  <page>
+    <p>Suppose the augmented matrix associated with the matrix equation 
+          <m>A\mathbf{x}=\mathbf{b}</m> has a reduced echelon form of 
+          <md alignment="alignat" alignat-columns="6">
+        <mrow>\begin{bmatrix} 1 &amp; 0 &amp; 3 &amp; 0 &amp; -5 &amp; 8\\ 0 &amp; 1 &amp; -2 &amp; 0 &amp; 4 &amp; -3\\0 &amp; 0 &amp; 0 &amp; 1 &amp; 1 &amp; 2\end{bmatrix}</mrow>
+      </md></p>
+    <exercise workspace="2in"><p>Write the general solution to the matrix equation in parametric vector form.</p></exercise>
+      <exercise workspace="2in"><p>Is <m>\mathbf{b}</m> in the span of the columns of <m>A</m>? Why or why not?</p></exercise>
+      <exercise workspace="2in"><p>Are the columns of <m>A</m> linearly independent? Why or why not?</p></exercise>
+  </page>
+  <page>
+      <exercise><p>Let <md alignment="alignat" alignat-columns="1"><mrow>\mathbf{a}_1 = \begin{bmatrix} 1\\-2\\2 \end{bmatrix}, 
+        \quad \mathbf{a}_2 = \begin{bmatrix} 2\\-3\\4 \end{bmatrix}, \quad \mathbf{a}_3 = \begin{bmatrix} 0\\4\\0 \end{bmatrix}, 
+        \quad \mathbf{y} = \begin{bmatrix} -1\\5\\-2 \end{bmatrix}</mrow></md>. Determine if <m>\mathbf{y}</m> is a linear 
+        combination of <m>\mathbf{a}_1</m>, <m>\mathbf{a}_2</m>, and <m>\mathbf{a}_3</m>. Support your answer.</p></exercise>
+  </page>
+</worksheet>
