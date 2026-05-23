@@ -78,6 +78,28 @@
             <xi:include href="./assessments/lsai-outcomes/lsai-4-e.ptx" />
             </subsection>
         </section>
+        
+        <section xml:id="sec-md-outcomes">
+            <title>Matrices and Determinants</title>
+            <introduction><p>Here are the assessment outcomes for Matrices and Determinants. There are multiple versions 
+                of each outcome so that there are options for multiple semesters of assessments. This section is 
+                divided into 4 outcomes:
+                <ul>
+                <li><p>Matrix Operations</p></li>
+                <li><p>Matrix Inverses</p></li>
+                <li><p>Determinants and Cramer's Rule</p></li>
+                </ul></p></introduction>
+            <subsection xml:id="sec-md1-outcomes">
+            <title>MD-1 Matrix Operations</title>
+            <xi:include href="./assessments/md-outcomes/md-1-a.ptx" />
+            </subsection>
+            <subsection xml:id="sec-md2-outcomes">
+            <title>MD-2 Matrix Inverses</title>
+            </subsection>
+            <subsection xml:id="sec-md3-outcomes">
+            <title>MD-3 Determinants and Cramer's Rule</title>
+            </subsection>
+        </section>
     </chapter>
   </book>
 </pretext>

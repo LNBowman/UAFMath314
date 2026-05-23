@@ -1,0 +1,21 @@
+<worksheet >
+    <title>MD-1 Matrix Operations</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all eight parts. 
+      Complete any six parts to earn a P.</p>
+  </introduction>  
+   <page>
+    <exercise workspace="1.5in">
+        <introduction><p>Given the following matrices:<md alignment="alignat" alignat-columns="3">
+            <mrow>A=\begin{bmatrix}2 &amp; -1&amp; 4\\ 3 &amp; 1 &amp; 5\end{bmatrix}, 
+              B= \begin{bmatrix} -3 &amp; 4\\2 &amp; 1\end{bmatrix}, C=\begin{bmatrix} 0 &amp; -3\\ 4 &amp; -2\end{bmatrix},
+              D=\begin{bmatrix} 1 &amp; 0\\-4 &amp; 2\\ 2 &amp; 3\end{bmatrix}</mrow>
+            </md> Compute the following matrices, if possible.  If the computation is not 
+            possible, explain why.</p></introduction>
+      <task><statement><p><m>AD</m></p></statement></task>
+      <task><statement><p><m>A+D^T</m></p></statement></task>
+      <task><statement><p><m>B^{-1}</m></p></statement></task>
+      <task><statement><p><m>C^2</m></p></statement></task>
+    </exercise>
+  </page>
+</worksheet>
