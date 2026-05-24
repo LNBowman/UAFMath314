@@ -1,0 +1,19 @@
+<worksheet >
+    <title>MD-3 Determinants and Cramer's Rule</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all three problems. 
+      Complete problem 3 and either problem 1 or 2 with progress on the other to earn a P.</p>
+  </introduction>  
+   <page> 
+      <exercise workspace="2.5in"><p>Consider the matrix <md alignment="alignat" alignat-columns="3">
+            <mrow>A=\begin{bmatrix} 4 &amp; 0 &amp; 2\\-1 &amp; 3 &amp; 5\\2 &amp; -2 &amp; 1 \end{bmatrix}</mrow></md>
+            Use the cofactor expansion with row 2 to compute its determinant. Show your work.</p></exercise>
+      <exercise workspace="2.5in"><p>Consider the matrix <md alignment="alignat" alignat-columns="3">
+            <mrow>B=\begin{bmatrix} -2 &amp; 4 &amp; 1\\3 &amp; 1 &amp; 2\\0 &amp; 5 &amp; -3 \end{bmatrix}</mrow></md>
+            Use the diagonalization method to compute its determinant. Show your work.</p></exercise>
+     </page>
+     <page>
+      <exercise workspace="2.5in"><p>Given the system <md><mrow>5x+6y=13</mrow><mrow>3x-2y=5</mrow></md>, 
+        use Cramer's Rule to solve for <m>x</m> and <m>y</m>. Show your work.</p></exercise>
+  </page>
+</worksheet>

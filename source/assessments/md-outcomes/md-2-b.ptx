@@ -1,0 +1,17 @@
+<worksheet >
+    <title>MD-2 Matrix Inverses</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete both problems. 
+      Complete one problem with progress on the other to earn a P.</p>
+  </introduction>  
+   <page>
+        <p>For each matrix below, use the indicated method to find the inverse, if it exists.  
+          If the inverse does not exist, explain why.</p>   
+      <exercise><p>Use Gaussian elimination to find the inverse <md alignment="alignat" alignat-columns="2">
+            <mrow>A=\begin{bmatrix} 2 &amp; -4 \\ -3 &amp; 6 \end{bmatrix}</mrow></md>.</p></exercise>
+     </page>
+     <page>
+      <exercise><p>Use the adjugate (cofactor) method to find the inverse <md alignment="alignat" alignat-columns="3">
+            <mrow>B=\begin{bmatrix} 2 &amp; 1 &amp; 0 \\ 1 &amp; -1 &amp; 3 \\ 0 &amp; 2 &amp; 4\end{bmatrix}</mrow></md>.</p></exercise>
+  </page>
+</worksheet>

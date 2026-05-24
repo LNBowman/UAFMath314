@@ -92,12 +92,26 @@
             <subsection xml:id="sec-md1-outcomes">
             <title>MD-1 Matrix Operations</title>
             <xi:include href="./assessments/md-outcomes/md-1-a.ptx" />
+            <xi:include href="./assessments/md-outcomes/md-1-b.ptx" /> 
+            <xi:include href="./assessments/md-outcomes/md-1-c.ptx" />
+            <xi:include href="./assessments/md-outcomes/md-1-d.ptx" />
+            <xi:include href="./assessments/md-outcomes/md-1-e.ptx" />
             </subsection>
             <subsection xml:id="sec-md2-outcomes">
             <title>MD-2 Matrix Inverses</title>
+            <xi:include href="./assessments/md-outcomes/md-2-a.ptx" />
+            <xi:include href="./assessments/md-outcomes/md-2-b.ptx" />
+            <xi:include href="./assessments/md-outcomes/md-2-c.ptx" />
+            <xi:include href="./assessments/md-outcomes/md-2-d.ptx" />
+            <xi:include href="./assessments/md-outcomes/md-2-e.ptx" />
             </subsection>
             <subsection xml:id="sec-md3-outcomes">
             <title>MD-3 Determinants and Cramer's Rule</title>
+            <xi:include href="./assessments/md-outcomes/md-3-a.ptx" />
+            <xi:include href="./assessments/md-outcomes/md-3-b.ptx" />
+            <xi:include href="./assessments/md-outcomes/md-3-c.ptx" />
+            <xi:include href="./assessments/md-outcomes/md-3-d.ptx" />
+            <xi:include href="./assessments/md-outcomes/md-3-e.ptx" />
             </subsection>
         </section>
     </chapter>

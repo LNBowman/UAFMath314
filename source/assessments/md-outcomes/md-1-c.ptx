@@ -1,0 +1,24 @@
+<worksheet >
+    <title>MD-1 Matrix Operations</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all four parts. 
+      Complete any three parts to earn a P.</p>
+  </introduction>  
+   <page>
+    <exercise workspace="1.5in">
+        <introduction><p>Given the following matrices:
+          <md alignment="alignat" alignat-columns="3">
+          <mrow>A=\begin{bmatrix} 1 &amp; 2 \\ -3 &amp; 4 \end{bmatrix}, 
+            B=\begin{bmatrix} 0 &amp; 1 \\ 2 &amp; -1 \end{bmatrix}, 
+            C=\begin{bmatrix} 4 &amp; 2 &amp; -1 \\ 1 &amp; 3 &amp; 0 \end{bmatrix}, 
+            D=\begin{bmatrix} -2 &amp; 0 \\ 1 &amp; 5 \end{bmatrix}</mrow>
+        </md> 
+            Compute the following matrices, if possible.  If the computation is not 
+            possible, explain why.</p></introduction>
+      <task><statement><p><m>A^{-1}D</m></p></statement></task>
+      <task><statement><p><m>2D^2</m></p></statement></task>
+      <task><statement><p><m>AB-BA</m></p></statement></task>
+      <task><statement><p><m>A^T+C</m></p></statement></task>
+    </exercise>
+  </page>
+</worksheet>
