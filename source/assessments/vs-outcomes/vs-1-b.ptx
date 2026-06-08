@@ -1,0 +1,29 @@
+<worksheet >
+    <title>VS-1 Vector Spaces and Subspaces</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete both problems. 
+      Complete one problem with progress on the other to earn a P.</p>
+  </introduction>  
+   <page>
+    <exercise>
+        <p>Let <m>V = P_2</m> be the set of all polynomials of degree 2 or less. Define normal polynomial addition, but let scalar multiplication be defined as 
+    <md alignment="alignat" alignat-columns="1">
+      <mrow>k \cdot (ax^2 + bx + c) = kax^2 + kbx + 0</mrow>
+    </md> 
+    for <m>k \in \mathbb{R}</m>.
+  </p><p>Determine if <m>V</m> is a 
+              vector space. If it is, verify the axioms. If it is not, identify 
+              which axiom(s) fail and provide a counterexample to show that the 
+              axiom(s) fail.</p>
+    </exercise>
+  </page>
+  <page>
+    <exercise>
+        <p>Let <m>V = P_3</m> be the vector space of all polynomials of degree 3 or less with normal operations. Let <m>H</m> be the subset of all polynomials <m>p(x) = ax^3 + bx^2 + cx + d</m> such that 
+    <md alignment="alignat" alignat-columns="3">
+      <mrow>p(1) = 0 \text{ and } a + b = 0</mrow>
+    </md>. Determine if <m>H</m> is a subspace of <m>V</m>. 
+            Justify your answer.</p>
+    </exercise>
+  </page>
+</worksheet>

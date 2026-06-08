@@ -1,0 +1,30 @@
+<worksheet >
+    <title>VS-1 Vector Spaces and Subspaces</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete both problems. 
+      Complete one problem with progress on the other to earn a P.</p>
+  </introduction>  
+   <page>
+    <exercise>
+        <p>Let <m>V</m> be the set of all vectors in <m>\mathbb{R}^3</m>  with normal 
+          vector addition and the scalar multiplication defined as 
+          <md alignment="alignat" alignat-columns="1">
+      <mrow>k\begin{bmatrix}x\\y\\z\end{bmatrix}= \begin{bmatrix}kx\\0\\kz\end{bmatrix}</mrow>
+    </md> for <m>k \in \mathbb{R}</m>.</p><p>Determine if <m>V</m> is a 
+              vector space. If it is, verify the axioms. If it is not, identify 
+              which axiom(s) fail and provide a counterexample to show that the 
+              axiom(s) fail.</p>
+    </exercise>
+  </page>
+  <page>
+    <exercise>
+        <p>Let <m>V=M_{23}</m>, the set of all <m>2\times 3</m> matrices with normal matrix 
+          addition and scalar multiplication.  Let <m>H</m> be the set of all 
+          <m>2\times 3</m> matrices of the form
+          <md alignment="alignat" alignat-columns="3">
+      <mrow>\begin{bmatrix}a &amp; b &amp; c\\ d &amp; e &amp; f\end{bmatrix}</mrow>
+    </md> where <m>a+f=1</m>. Determine if <m>H</m> is a subspace of <m>V</m>. 
+            Justify your answer.</p>
+    </exercise>
+  </page>
+</worksheet>

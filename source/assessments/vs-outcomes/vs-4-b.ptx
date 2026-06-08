@@ -1,0 +1,18 @@
+<worksheet >
+    <title>VS-4 Change of Basis</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all three parts. 
+      Complete parts a and c with progress on part b to earn a P.</p>
+  </introduction>  
+   <page>
+    <exercise>
+        <introduction><p>Let
+          <md alignment="alignat" alignat-columns="1">
+        <mrow>B=\left\{\begin{bmatrix}1\\0\end{bmatrix}, \begin{bmatrix}0\\1\end{bmatrix}\right\}\text{ and } C=\left\{\begin{bmatrix}3\\4\end{bmatrix}, \begin{bmatrix}2\\3\end{bmatrix}\right\}</mrow>
+      </md> be two ordered basses for <m>\mathbb{R}^2</m>.</p></introduction>
+        <task workspace="2in"><statement><p>Find the transition matrix from <m>B</m> to <m>C</m>.</p></statement></task>
+        <task workspace="2in"><statement><p>Find the transition matrix from <m>C</m> to <m>B</m>.</p></statement></task>
+        <task workspace="2in"><statement><p>Find the <m>B</m>-coordinates of the vector <m>\begin{bmatrix}-2\\1\end{bmatrix}</m>.</p></statement></task>
+    </exercise>
+  </page>
+</worksheet>

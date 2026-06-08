@@ -1,0 +1,23 @@
+<worksheet >
+    <title>VS-2 Linearly Independent Sets and Coordinate Systems</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete both problems. 
+      Complete one problem with progress on the other to earn a P.</p>
+  </introduction>  
+   <page>
+    <exercise workspace="2.5in">
+        <p>Determine whether the set
+          <md alignment="alignat" alignat-columns="1">
+      <mrow>\left\{\begin{bmatrix}1\\4\\-2\end{bmatrix}, \begin{bmatrix}2\\1\\3\end{bmatrix}, \begin{bmatrix}-1\\3\\-5\end{bmatrix}, \begin{bmatrix}5\\0\\1\end{bmatrix}\right\}</mrow>
+    </md> is a basis for <m>\mathbb{R}^3</m>. If the set is 
+            not a basis, determine if the set is linearly independent 
+            or if the set spans <m>\mathbb{R}^3</m>.</p>
+    </exercise>
+    <exercise workspace="2.5in">
+        <p>Find the change of coordinates matrix from 
+          <md alignment="alignat" alignat-columns="3">
+      <mrow>B=\left\{\begin{bmatrix}1\\-1\\2\end{bmatrix}, \begin{bmatrix}3\\0\\4\end{bmatrix}, \begin{bmatrix}-2\\1\\5\end{bmatrix}\right\}</mrow>
+    </md> to the standard basis for <m>\mathbb{R}^3</m>.</p>
+    </exercise>
+  </page>
+</worksheet>

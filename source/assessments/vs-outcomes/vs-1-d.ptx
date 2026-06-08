@@ -1,0 +1,26 @@
+<worksheet >
+    <title>VS-1 Vector Spaces and Subspaces</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete both problems. 
+      Complete one problem with progress on the other to earn a P.</p>
+  </introduction>  
+   <page>
+    <exercise>
+        <p>Let <m>V</m> be the set of all continuous, real-valued functions defined on the interval <m>[0, 1]</m>. Define normal function scalar multiplication, but let vector addition be defined as 
+    <md alignment="alignat" alignat-columns="1">
+      <mrow>(f \oplus g)(x) = f(x) \cdot g(x)</mrow>
+    </md>.
+  </p><p>Determine if <m>V</m> is a vector space. If it is, verify the axioms. If it is not, identify which axiom(s) fail and provide a counterexample to show that the axiom(s) fail.</p>
+    </exercise>
+  </page>
+  <page>
+    <exercise>
+       <p>Let <m>V = C[-1, 1]</m> be the vector space of all continuous functions on the interval <m>[-1, 1]</m> under normal operations. Let <m>H</m> be the subset of all functions <m>f(x)</m> such that 
+    <md alignment="alignat" alignat-columns="3">
+      <mrow>f(-x) = -f(x)</mrow>
+    </md> 
+    for all <m>x \in [-1, 1]</m> (the set of all odd functions). Determine if <m>H</m> is a subspace of <m>V</m>. 
+            Justify your answer.</p>
+    </exercise>
+  </page>
+</worksheet>

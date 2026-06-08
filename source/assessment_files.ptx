@@ -114,6 +114,50 @@
             <xi:include href="./assessments/md-outcomes/md-3-e.ptx" />
             </subsection>
         </section>
+        <section xml:id="sec-vs-outcomes">
+            <title>Vector Spaces and Subspaces</title>
+            <introduction><p>Here are the assessment outcomes for Vector Spaces and Subspaces. There are multiple versions 
+                of each outcome so that there are options for multiple semesters of assessments. This section is 
+                divided into 4 outcomes:
+                <ul>
+                <li><p>Vector Spaces and Subspaces</p></li>
+                <li><p>Linearly Independent Sets and Coordinate Systems</p></li>
+                <li><p>Bases, Dimensions, and Rank</p></li>
+                <li><p>Change of Basis</p></li>
+                </ul></p></introduction>
+            <subsection xml:id="sec-vs1-outcomes">
+            <title>VS-1 Vector Spaces and Subspaces</title>
+            <xi:include href="./assessments/vs-outcomes/vs-1-a.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-1-b.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-1-c.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-1-d.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-1-e.ptx" />
+            </subsection>
+            <subsection xml:id="sec-vs2-outcomes">
+            <title>VS-2 Linearly Independent Sets and Coordinate Systems</title>
+            <xi:include href="./assessments/vs-outcomes/vs-2-a.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-2-b.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-2-c.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-2-d.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-2-e.ptx" />
+            </subsection>
+            <subsection xml:id="sec-vs3-outcomes">
+            <title>VS-3 Bases, Dimensions, and Rank</title>
+            <xi:include href="./assessments/vs-outcomes/vs-3-a.ptx" />
+              <xi:include href="./assessments/vs-outcomes/vs-3-b.ptx" />
+              <xi:include href="./assessments/vs-outcomes/vs-3-c.ptx" />
+              <xi:include href="./assessments/vs-outcomes/vs-3-d.ptx" />
+              <xi:include href="./assessments/vs-outcomes/vs-3-e.ptx" />
+            </subsection>
+            <subsection xml:id="sec-vs4-outcomes">
+            <title>VS-4 Change of Basis</title>
+            <xi:include href="./assessments/vs-outcomes/vs-4-a.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-4-b.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-4-c.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-4-d.ptx" />
+            <xi:include href="./assessments/vs-outcomes/vs-4-e.ptx" />
+            </subsection>
+        </section>
     </chapter>
   </book>
 </pretext>

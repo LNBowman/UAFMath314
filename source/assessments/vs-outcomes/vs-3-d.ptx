@@ -1,0 +1,24 @@
+<worksheet >
+    <title>VS-3 Bases, Dimension, and Rank</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete both problems. 
+      Complete one problem with progress on the other to earn a P.</p>
+  </introduction>  
+   <page>
+    <exercise>
+        <introduction><p>Suppose you are given a matrix and its reduced row-echelon form. 
+          <md alignment="alignat" alignat-columns="5">
+        <mrow>A=\begin{bmatrix}1 &amp; 1 &amp; 2\\ 2 &amp; 3 &amp; 5\\ -1 &amp; 1 &amp; 0\\ 3 &amp; 2 &amp; 5\\ 0 &amp; 1 &amp; 1\end{bmatrix} \approx\begin{bmatrix}1 &amp; 0 &amp; 1\\ 0 &amp; 1 &amp; 1\\ 0 &amp; 0 &amp; 0\\ 0 &amp; 0 &amp; 0\\ 0 &amp; 0 &amp; 0\end{bmatrix}</mrow>
+      </md>.</p></introduction>
+            <task workspace="1.5in"><statement><p>Find a basis for the null space, column space, and row space of 
+              the matrix.</p></statement></task>
+            <task workspace="1in"><statement><p>Determine the dimension of each of the subspaces in part 
+              (a).</p></statement></task>
+            <task workspace="1.5in"><statement><p> Is it possible that all solutions of <m>Ax=0</m> are 
+              multiples of a single vector? Why or Why not?</p></statement></task>
+            <task><statement><p>Is it possible to find four linearly independent 
+              vectors that are all solutions to the matrix equation <m>Ax=0</m>? Why or 
+              Why not?</p></statement></task>
+    </exercise>
+  </page>
+</worksheet>
