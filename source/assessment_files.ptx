@@ -158,6 +158,68 @@
             <xi:include href="./assessments/vs-outcomes/vs-4-e.ptx" />
             </subsection>
         </section>
+        <section xml:id="sec-eipo-outcomes">
+            <title>Eigenvectors, Inner Products, and Orthogonality</title>
+            <introduction><p>Here are the assessment outcomes for Eigenvectors, Inner Products, and Orthogonality. There are multiple versions 
+                of each outcome so that there are options for multiple semesters of assessments. This section is 
+                divided into 6 outcomes:
+                <ul>
+                <li><p>Eigenvalues and Eigenvectors</p></li>
+                <li><p>Diagonalization</p></li>
+                <li><p>Inner Products</p></li>
+                <li><p>Orthogonality</p></li>
+                <li><p>Gram-Schmidt Process</p></li>
+                <li><p>Least-Squares</p></li>
+                </ul></p></introduction>
+            <subsection xml:id="sec-eipo1-outcomes">
+            <title>EIPO-1 Eigenvalues and Eigenvectors</title>
+            <xi:include href="./assessments/eipo-outcomes/eipo-1-a.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-1-b.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-1-c.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-1-d.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-1-e.ptx" />
+            </subsection>
+            <subsection xml:id="sec-eipo2-outcomes">
+            <title>EIPO-2 Diagonalization</title>
+            <xi:include href="./assessments/eipo-outcomes/eipo-2-a.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-2-b.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-2-c.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-2-d.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-2-e.ptx" />
+            </subsection>
+            <subsection xml:id="sec-eipo3-outcomes">
+            <title>EIPO-3 Inner Products</title>
+            <xi:include href="./assessments/eipo-outcomes/eipo-3-a.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-3-b.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-3-c.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-3-d.ptx" />
+            <xi:include href="./assessments/eipo-outcomes/eipo-3-e.ptx" />
+            </subsection>
+            <subsection xml:id="sec-eipo4-outcomes">
+              <title>EIPO-4 Orthogonality</title>
+              <xi:include href="./assessments/eipo-outcomes/eipo-4-a.ptx" />
+              <xi:include href="./assessments/eipo-outcomes/eipo-4-b.ptx" />
+              <xi:include href="./assessments/eipo-outcomes/eipo-4-c.ptx" />
+              <xi:include href="./assessments/eipo-outcomes/eipo-4-d.ptx" />
+              <xi:include href="./assessments/eipo-outcomes/eipo-4-e.ptx" />  
+            </subsection>
+            <subsection xml:id="sec-eipo5-outcomes">
+              <title>EIPO-5 Normalization</title>
+              <xi:include href="./assessments/eipo-outcomes/eipo-5-a.ptx" />
+              <xi:include href="./assessments/eipo-outcomes/eipo-5-b.ptx" />
+              <xi:include href="./assessments/eipo-outcomes/eipo-5-c.ptx" />
+              <xi:include href="./assessments/eipo-outcomes/eipo-5-d.ptx" />
+              <xi:include href="./assessments/eipo-outcomes/eipo-5-e.ptx" />  
+            </subsection>
+            <subsection xml:id="sec-eipo6-outcomes">
+              <title>EIPO-6 Least-Squares</title>
+              <xi:include href="./assessments/eipo-outcomes/eipo-6-a.ptx" /> 
+              <xi:include href="./assessments/eipo-outcomes/eipo-6-b.ptx" />
+              <xi:include href="./assessments/eipo-outcomes/eipo-6-c.ptx" />
+              <xi:include href="./assessments/eipo-outcomes/eipo-6-d.ptx" />
+              <xi:include href="./assessments/eipo-outcomes/eipo-6-e.ptx" /> 
+            </subsection>
+          </section>
     </chapter>
   </book>
 </pretext>

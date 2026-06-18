@@ -1,0 +1,29 @@
+<worksheet >
+    <title>EIPO-3 Inner Products</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all three problems. 
+      Complete part c and one other part to earn a P.</p>
+  </introduction>  
+   <page>
+      <exercise>
+        <introduction>
+            <p>Let <m>V = \mathbb{R}^2</m> have a weighted inner product defined by <m>\langle u, v \rangle = 2u_1v_1 + 3u_2v_2</m>, where <m>u = (u_1, u_2)</m> and <m>v = (v_1, v_2)</m>.</p>
+        </introduction>
+        <task workspace="2in">
+            <statement>
+                <p>If <m>u = (1, -2)</m> and <m>v = (4, 3)</m>, compute the weighted inner product <m>\langle u, v \rangle</m>.</p>
+            </statement>
+        </task>
+        <task workspace="2in">
+            <statement>
+                <p>Calculate the distance <m>d(u, v)</m> between <m>u = (1, -2)</m> and <m>v = (4, 3)</m> under the metric induced by this inner product.</p>
+            </statement>
+        </task>
+        <task workspace="2in">
+            <statement>
+                <p>Show that this weighted operation satisfies the linearity axiom <m>\langle ku, v \rangle = k\langle u, v \rangle</m> for any scalar <m>k</m>.</p>
+            </statement>
+        </task>
+    </exercise>
+  </page>
+</worksheet>

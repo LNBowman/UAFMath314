@@ -1,0 +1,29 @@
+<worksheet >
+    <title>EIPO-3 Inner Products</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all three problems. 
+      Complete part c and one other part to earn a P.</p>
+  </introduction>  
+   <page>
+      <exercise>
+        <introduction>
+            <p>Let <m>P_1</m> be the vector space of polynomials of degree 1 or less, with an evaluation inner product defined at discrete points: <m>\langle p, q \rangle = p(0)q(0) + p(1)q(1)</m>.</p>
+        </introduction>
+        <task workspace="2in">
+            <statement>
+                <p>If <m>p(x) = 2x + 1</m> and <m>q(x) = -x + 3</m>, evaluate <m>\langle p, q \rangle</m>.</p>
+            </statement>
+        </task>
+        <task workspace="2in">
+            <statement>
+                <p>Find a non-zero polynomial <m>r(x) \in P_1</m> that is orthogonal to <m>p(x) = 2x + 1</m> under this inner product.</p>
+            </statement>
+        </task>
+        <task workspace="2in">
+            <statement>
+                <p>Prove whether or not this definition remains a valid inner product if the vector space is expanded to <m>P_2</m>.</p>
+            </statement>
+        </task>
+    </exercise>
+  </page>
+</worksheet>

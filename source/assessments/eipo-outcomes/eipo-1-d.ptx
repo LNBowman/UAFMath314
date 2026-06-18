@@ -1,0 +1,19 @@
+<worksheet >
+    <title>EIPO-1 Eigenvalues and Eigenvectors</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all three parts. 
+      Complete parts a and c to earn a P.</p>
+  </introduction>  
+   <page>
+     <exercise>
+        <introduction><p>Let
+          <md alignment="alignat" alignat-columns="5">
+        <mrow>A=\begin{bmatrix}4 &amp; 1 &amp; -1\\2 &amp; 5 &amp; -2\\ 1 &amp; 1 &amp; 2\end{bmatrix}</mrow>
+        </md>.</p></introduction>
+            <task workspace="1.5in"><statement><p>Find the characteristic polynomial of <m>A</m> in factored form.</p></statement></task>
+            <task workspace="2in"><statement><p>Find the eigenvalues of <m>A</m>.</p></statement></task>
+            <task workspace="2.5in"><statement><p>Let <m>\lambda_1</m> be the eigenvalue with the
+            largest absolute value. Find an eigenvector corresponding to <m>\lambda_1</m>.</p></statement></task>
+    </exercise>
+  </page>
+</worksheet>

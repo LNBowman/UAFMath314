@@ -1,0 +1,23 @@
+<worksheet >
+    <title>EIPO-2 Diagonalization</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete both problems. 
+      Complete problem 1 with progress on problem 2 to earn a P.</p>
+  </introduction>  
+   <page>
+      <exercise>
+    <p>Let <md alignment="alignat" alignat-columns="1">
+      <mrow>A=\begin{bmatrix}-7 &amp; -10\\ 5 &amp; 8\end{bmatrix}</mrow>
+    </md> for <m>k \in \mathbb{R}</m>. Find an invertible matrix <m>P</m>
+    and a diagonal matrix <m>D</m> such that <m>A=PDP^{-1}</m>.</p>
+  </exercise>
+  </page>
+  <page>
+  <exercise>
+    <p>Let 
+      <md alignment="alignat" alignat-columns="3">
+        <mrow>A= \begin{bmatrix}-5 &amp; 0 &amp; 0\\0 &amp; -2 &amp; 0\\0 &amp; 0 &amp; 3\end{bmatrix}</mrow>
+      </md> Find <m>A^4</m>.</p>
+  </exercise>
+  </page>
+</worksheet>

@@ -1,0 +1,13 @@
+<worksheet >
+    <title>EIPO-6 Least Squares</title>
+  <introduction>
+    <p>To earn an M on this outcome, give <m>A^TA, A^Ty,(A^TA)^{-1}</m> and the correct solution. 
+      To earn a P, give <m>A^TA, A^Ty</m> with progress on <m>(A^TA)^{-1}</m>.</p>
+  </introduction>  
+   <page>
+      <exercise>
+  <p>Given the data points <m>(-3,5), (-1,3),</m> and <m>(1,2)</m>. Find the least-squares 
+    best fit line for the data points.</p>
+</exercise>
+  </page>
+</worksheet>

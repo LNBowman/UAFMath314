@@ -1,0 +1,29 @@
+<worksheet >
+    <title>EIPO-3 Inner Products</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all three problems. 
+      Complete part c and one other part to earn a P.</p>
+  </introduction>  
+   <page>
+      <exercise>
+        <introduction>
+            <p>Let <m>M_{2\times2}</m> be the vector space of all <m>2 \times 2</m> real matrices with the inner product defined by <m>\langle A, B \rangle = \text{tr}(A^T B)</m>.</p>
+        </introduction>
+        <task workspace="2in">
+            <statement>
+                <p>Compute <m>\langle A, B \rangle</m> for the matrices <m>A = \begin{bmatrix} 1 &amp; -2 \\ 0 &amp; 3 \end{bmatrix}</m> and <m>B = \begin{bmatrix} 4 &amp; 1 \\ -1 &amp; 2 \end{bmatrix}</m>.</p>
+            </statement>
+        </task>
+        <task workspace="2in">
+            <statement>
+                <p>Find the matrix norm <m>\|A\|</m> for <m>A = \begin{bmatrix} 1 &amp; -2 \\ 0 &amp; 3 \end{bmatrix}</m>.</p>
+            </statement>
+        </task>
+        <task workspace="2in">
+            <statement>
+                <p>Determine if the matrix inner product definition satisfies the positivity axiom: <m>\langle A, A \rangle \ge 0</m>, and <m>\langle A, A \rangle = 0</m> if and only if <m>A</m> is the zero matrix.</p>
+            </statement>
+        </task>
+    </exercise>
+  </page>
+</worksheet>

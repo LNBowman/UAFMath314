@@ -1,0 +1,14 @@
+<worksheet >
+    <title>EIPO-5 Gram-Schmidt Process</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete the factorization. 
+      Find matrix Q with progress on R to earn a P.</p>
+  </introduction>  
+   <page>
+       <exercise>
+    <p>Let <md alignment="alignat" alignat-columns="2">
+      <mrow>A=\begin{bmatrix}-4 &amp; -4\\ -4 &amp; -1\\ -4 &amp; 4\\ -1 &amp; 4\end{bmatrix}</mrow>
+    </md> Use the Gram-Schmidt Process to find the QR factorization of <m>A</m>.</p>
+  </exercise>
+  </page>
+</worksheet>

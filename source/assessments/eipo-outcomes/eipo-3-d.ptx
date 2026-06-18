@@ -1,0 +1,29 @@
+<worksheet >
+    <title>EIPO-3 Inner Products</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all three problems. 
+      Complete part c and one other part to earn a P.</p>
+  </introduction>  
+   <page>
+      <exercise>
+        <introduction>
+            <p>Let <m>V = C[0, \infty)</m> be the space of continuous functions on the interval <m>[0, \infty)</m> with the weighted inner product defined by <m>\langle f, g \rangle = \int_{0}^{\infty} f(x)g(x)e^{-x} \, dx</m>.</p>
+        </introduction>
+        <task workspace="2in">
+            <statement>
+                <p>If <m>f(x) = x</m> and <m>g(x) = 1</m>, evaluate the inner product <m>\langle f, g \rangle</m>.</p>
+            </statement>
+        </task>
+        <task workspace="2in">
+            <statement>
+                <p>Compute the norm <m>\|f\|</m> of the function <m>f(x) = x</m>.</p>
+            </statement>
+        </task>
+        <task workspace="2in">
+            <statement>
+                <p>Determine whether this integral converges for all continuous functions, or if constraints must be placed on the growth rate of the functions to qualify as a valid inner product space.</p>
+            </statement>
+        </task>
+    </exercise>
+  </page>
+</worksheet>

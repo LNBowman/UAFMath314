@@ -1,0 +1,29 @@
+<worksheet >
+    <title>EIPO-3 Inner Products</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete all three problems. 
+      Complete part c and one other part to earn a P.</p>
+  </introduction>  
+   <page>
+      <exercise>
+        <introduction>
+            <p>Let <m>P_2</m> be the vector space of polynomials of degree 2 or less, with the inner product defined by <m>\langle p, q \rangle = \int_{0}^{1} p(x)q(x) \, dx</m>.</p>
+        </introduction>
+        <task workspace="2in">
+            <statement>
+                <p>If <m>p(x) = 3x - 1</m> and <m>q(x) = x^2 + 2</m>, calculate the inner product <m>\langle p, q \rangle</m>.</p>
+            </statement>
+        </task>
+        <task workspace="2in">
+            <statement>
+                <p>Find the norm <m>\|p\|</m> of the polynomial <m>p(x) = 3x - 1</m> using the given inner product.</p>
+            </statement>
+        </task>
+        <task workspace="2in">
+            <statement>
+                <p>Determine whether the polynomials <m>f(x) = x</m> and <m>g(x) = 3x - 2</m> are orthogonal under this inner product.</p>
+            </statement>
+        </task>
+    </exercise>
+  </page>
+</worksheet>

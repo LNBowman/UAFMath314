@@ -1,0 +1,25 @@
+<worksheet >
+    <title>EIPO-4 Orthogonality</title>
+  <introduction>
+    <p>To earn an M on this outcome, complete both problems. 
+      Complete problem 1 with progress on problem 2 to earn a P.</p>
+  </introduction>  
+   <page>
+      <exercise>
+        <p>Given the set of vectors <md alignment="alignat" alignat-columns="1">
+          <mrow>v_1=\begin{bmatrix}\frac{\sqrt{3}}{3}\\\frac{\sqrt{3}}{3}\\\frac{\sqrt{3}}{3}\end{bmatrix},
+    v_2=\begin{bmatrix}\frac{-\sqrt{2}}{2}\\0\\\frac{\sqrt{2}}{2}\end{bmatrix},
+    v_3=\begin{bmatrix}\frac{\sqrt{6}}{6}\\\frac{-\sqrt{6}}{3}\\\frac{\sqrt{6}}{6}\end{bmatrix}</mrow>
+        </md> Determine whether this set of vectors is orthogonal, orthonormal, or neither. Support your answer.</p>
+      </exercise>
+    </page>
+    <page>
+      <exercise>
+        <p>Compute the orthogonal projection of 
+          <md alignment="alignat" alignat-columns="1">
+            <mrow>u= \begin{bmatrix}4\\-1\end{bmatrix}</mrow></md> onto the line through 
+            <md alignment="alignat" alignat-columns="1">
+              <mrow>v= \begin{bmatrix}-1\\1\end{bmatrix}</mrow></md> and the origin.</p>
+      </exercise>
+    </page>
+</worksheet>
